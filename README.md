@@ -2,6 +2,8 @@
 
 一步一步把 Ubuntu 24.04 的 GNOME 桌面改成 Mac 风格：底部居中 Dock、红黄绿窗口按钮、Mac 图标和指针、Big Sur 壁纸、Safari 风格的 Firefox，还有把 Firefox / 应用中心等图标换成 Safari / App Store。
 
+![美化后的桌面](screenshots/desktop.png)
+
 > 作者是 ROS 2 初学者，这是在 VMware 虚拟机里边做边记的完整过程，**每条命令都实际跑过**，踩过的坑也都写进来了。
 
 ## 运行环境
